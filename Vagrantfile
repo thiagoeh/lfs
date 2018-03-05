@@ -75,7 +75,7 @@ Vagrant.configure("2") do |config|
   config.vm.provision "shell", inline: <<-SHELL
     apt-get update
     # apt-get upgrade --yes ## TODO updating the kernel breaks the VBox additions, so it's disabled until I figure out how to fix that
-    apt-get install --yes bison gawk g++ texinfo 
+    apt-get install --yes bison gawk g++ texinfo vim
   SHELL
 
 
