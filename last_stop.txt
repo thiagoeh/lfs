@@ -1,3 +1,4 @@
-http://www.linuxfromscratch.org/lfs/view/stable-systemd/chapter05/tcl.html
+http://www.linuxfromscratch.org/lfs/view/stable-systemd/chapter05/ncurses.html
+	finished this step
 
-	TZ=UTC make test
+
