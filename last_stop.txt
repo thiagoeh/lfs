@@ -1,0 +1,3 @@
+http://www.linuxfromscratch.org/lfs/view/stable-systemd/chapter05/tcl.html
+
+	TZ=UTC make test
